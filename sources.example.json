@@ -1,0 +1,7 @@
+[
+  {
+    "id": "s1",
+    "url": "http://EXEMPLO:8080/get.php?username=UTILIZADOR&password=PASSWORD&type=m3u_plus",
+    "nickname": "minha-lista-1"
+  }
+]

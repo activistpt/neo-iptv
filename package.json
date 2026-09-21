@@ -1,0 +1,20 @@
+{
+  "name": "neo-iptv",
+  "productName": "NeoIPTV",
+  "version": "1.1.0",
+  "description": "NEO//IPTV - canais, filmes e series (Windows e Linux)",
+  "main": "main.js",
+  "author": "NEO//IPTV",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-packager . NeoIPTV --overwrite",
+    "pack:win": "electron-packager . NeoIPTV --platform=win32 --arch=x64 --out=dist --overwrite",
+    "pack:linux": "electron-packager . NeoIPTV --platform=linux --arch=x64 --out=dist --overwrite",
+    "linux": "bash run-linux.sh"
+  },
+  "devDependencies": {
+    "electron": "^43.4.0",
+    "electron-packager": "^17.1.2"
+  }
+}
