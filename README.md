@@ -62,5 +62,6 @@ O resultado fica em `dist/NeoIPTV-win32-x64/` ou `dist/NeoIPTV-linux-x64/`.
 A app serve a UI em `http://127.0.0.1:8096` (porta fixa para manter as fontes guardadas entre sessões). Para abrir fora da janela Electron: `http://127.0.0.1:8096/index.html` no browser.
 
 ## Licença
-
+https://buymeacoffee.com/ptlegion
+Powered by: Ø̴Ʉ̴Ŧ̴Ş̴ł̴Đ̴Ɇ̴Ɍ̴
 MIT
